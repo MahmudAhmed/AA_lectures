@@ -1,0 +1,18 @@
+[1m[1;34mJSON::Ext::Generator::GeneratorMethods::String::Extend#methods[0m[0m: json_create
+[1m[1;34mString.methods[0m[0m: try_convert
+[1m[1;34mString#methods[0m[0m: 
+  %            bytesize     concat          each_grapheme_cluster  hex       oct           scrub!       sub!       tr_s               
+  *            byteslice    count           each_line              include?  ord           setbyte      succ       tr_s!              
+  +            capitalize   crypt           empty?                 index     partition     shell_split  succ!      undump             
+  +@           capitalize!  delete          encode                 insert    prepend       shellescape  sum        unicode_normalize  
+  -@           casecmp      delete!         encode!                inspect   pretty_print  shellsplit   swapcase   unicode_normalize! 
+  <<           casecmp?     delete_prefix   encoding               intern    replace       size         swapcase!  unicode_normalized?
+  <=>          center       delete_prefix!  end_with?              length    reverse       slice        to_c       unpack             
+  ==           chars        delete_suffix   eql?                   lines     reverse!      slice!       to_f       unpack1            
+  ===          chomp        delete_suffix!  force_encoding         ljust     rindex        split        to_i       upcase             
+  =~           chomp!       downcase        freeze                 lstrip    rjust         squeeze      to_r       upcase!            
+  []           chop         downcase!       getbyte                lstrip!   rpartition    squeeze!     to_s       upto               
+  []=          chop!        dump            grapheme_clusters      match     rstrip        start_with?  to_str     valid_encoding?    
+  ascii_only?  chr          each_byte       gsub                   match?    rstrip!       strip        to_sym   
+  b            clear        each_char       gsub!                  next      scan          strip!       tr       
+  bytes        codepoints   each_codepoint  hash                   next!     scrub         sub          tr!      
